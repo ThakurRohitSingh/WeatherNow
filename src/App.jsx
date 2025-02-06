@@ -39,7 +39,7 @@ const App = () => {
               <>
                 <WeatherInfo data={weatherData} />
                 <DailyForecast data={weatherData.forecast.forecastday[0].hour} />
-                <AirCondition />
+                <AirCondition data={weatherData}/>
               </>
             )
           }

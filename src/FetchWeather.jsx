@@ -1,7 +1,4 @@
-import { API_KEY } from "../apikey";
-
-const API_KEY = {API_KEY};
-
+const API_KEY = import.meta.env.VITE_API_KEY
 export const fetchWeatherData = async (city) => {
     if (!city.trim()) {
       console.error("City name is empty, cannot fetch data.");

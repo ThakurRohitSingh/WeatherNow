@@ -26,7 +26,7 @@ body {
 .nav {
     height: 95%;
     width: 4%;
-    background-color: red;
+    /* background-color: red; */
     border-radius: 10px;
 }
 
@@ -49,12 +49,12 @@ body {
 
 
 #search {
-  width: 95%;
-  margin: 10px;
-  padding: 5px;
+  width: 70%;
+  margin: 10px 0 10px 10px;
+  padding: 5.5px;
   padding-left: 12px;
-  border-radius: 10px;
-  background-color: grey;
+  border-radius: 20px 0 0 20px;
+  background-color: white;
   color: white;
   outline: 0;
   border: 0;
@@ -65,3 +65,19 @@ body {
   color: white;
   font-size: medium;
 }
+
+button{
+    width: 20%;
+    text-align: center;
+    border-radius: 0 20px 20px 0;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    background-color:#3b82f6;
+    color: white;
+    padding: 0.6px 0 4px 0;
+  }
+
+  button:hover{
+    background-color: #2563eb;
+  }

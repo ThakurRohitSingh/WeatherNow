@@ -13,7 +13,7 @@ This is a **Weather Now** web app built using **React, Vite, and Tailwind CSS**.
 - 🌙 **Dark theme UI** for better user experience.
 
 ## Screenshot
-![Weather Now UI](image.png)
+![Weather Now UI](https://github.com/ThakurRohitSingh/WeatherNow/blob/59a42925517691714ccae796578e1c9b04ab61cb/public/WeatherNow%20Ui.png)
 
 ## Technologies Used
 - **React** (for UI components and state management)

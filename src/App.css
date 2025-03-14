@@ -62,7 +62,7 @@ body {
 }
 
 #search::placeholder {
-  color: white;
+  color: black;
   font-size: medium;
 }
 

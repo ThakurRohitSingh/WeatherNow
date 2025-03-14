@@ -21,12 +21,12 @@ const App = () => {
   return (
     <section className='container'>
       <div className="nav bg-white">
-      <div className="h-screen flex  flex-col items-center justify-start gap-80">
-        <img src={logo} alt="" />
-  <span  style={{ writingMode: 'sideways-lr' }} className="font-bold text-4xl">
-    WEATHER NOW
-  </span>
-</div>
+        <div className="h-screen flex  flex-col items-center justify-start gap-80">
+          <img src={logo} alt="" />
+          <span style={{ writingMode: 'sideways-lr' }} className="font-bold text-4xl">
+            WEATHER NOW
+          </span>
+        </div>
 
       </div>
       <div className="content">

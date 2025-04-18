@@ -1,4 +1,4 @@
-# Weather Now 🌤️
+# **[Weather Now](https://weathernow04.netlify.app/)**
 
 ## Overview
 This is a **Weather Now** web app built using **React, Vite, and Tailwind CSS**. The app allows users to search for a city and view current weather conditions, hourly forecasts, and a 7-day forecast.
